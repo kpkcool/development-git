@@ -18,6 +18,13 @@ class ViewController: UIViewController {
         print("print C")
     }
 
+    func printA() {
+        print("A")
+    }
+    
+    func printB() {
+        print("B")
+    }
 
 }
 
